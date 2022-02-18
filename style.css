@@ -50,8 +50,8 @@ body
 .profileText .imgBx 
 {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 205px;
+    height: 250px;
     border-radius: 50%;
     overflow: hidden;
 }
